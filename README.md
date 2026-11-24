@@ -6,6 +6,12 @@
 
 </div>
 
+## 👋 About Me
+
+- 🔬 Currently exploring LLMs and AI agents
+- 🌱 Interested in agent routing, retrieval (RAG) and LLM evaluation
+- 💻 Background in backend development with Python and Java
+
 ## 🔭 Focus
 
 - **Intent recognition and routing**: combining model, embedding and keyword signals, with safe behavior when the model call fails
