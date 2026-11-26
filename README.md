@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Backend+engineering+for+LLM+apps;Intent+recognition+%C2%B7+Routing+%C2%B7+RAG;Measured+with+repeatable+benchmarks" alt="I'm Gary Yang. Backend engineering for LLM apps. Intent recognition, routing, RAG. Measured with repeatable benchmarks." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&lines=Backend+engineering+for+LLM+apps;Intent+recognition+%C2%B7+Routing+%C2%B7+RAG;Measured+with+repeatable+benchmarks" alt=" I'm Gary Yang. Backend engineering for LLM apps. Intent recognition, routing, RAG. Measured with repeatable benchmarks." />
 
 **Gary Yang** · I build backend services for LLM applications, and the benchmarks that show whether a change helped. Open to software engineering opportunities.
 
