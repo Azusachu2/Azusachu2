@@ -25,12 +25,6 @@
 | --- | --- | --- |
 | **EchoMind** | Multi-agent customer support runtime, based on the EchoMind project by Biscuit-AI531. I added its benchmark suite and reworked intent recognition, urgency and failure handling. | Python · FastAPI · Redis · ChromaDB · MCP · Docker |
 
-## 🔧 What I Changed in EchoMind
-
-- **Benchmark suite**: 253 labelled intent cases and 93 retrieval queries over a 41-document corpus, including 12 questions with no answer. Compares two runs case by case with an exact paired test
-- **Urgency**: the model rates how serious an issue is in the same call that classifies it. Keyword rules take over if that fails, and critical cases skip clarification and include safety guidance
-- **Failure handling**: when the model call fails, only strong keyword or embedding matches are trusted, and the degraded result is never cached
-- **Entity extraction**: error codes must appear in a fault context, so "500 yuan" or digits in an order number no longer send a customer to the technical agent
 
 ## 🛠 Tech Stack
 
