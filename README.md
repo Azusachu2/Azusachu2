@@ -8,9 +8,11 @@
 
 ## 👋 About Me
 
+- 🏫 OSU Undergraduate CSE 2022-2026, USC Master CS 2026-Current
 - 🔬 Currently exploring LLMs and AI agents
 - 🌱 Interested in agent routing, retrieval (RAG) and LLM evaluation
 - 💻 Background in backend development with Python and Java
+
 
 ## 🔭 Focus
 
