@@ -25,7 +25,7 @@
 
 | Project | About | Stack |
 | --- | --- | --- |
-| **EchoMind** | Multi-agent customer support runtime, based on the EchoMind project by Biscuit-AI531. I added its benchmark suite and reworked intent recognition, urgency and failure handling. | Python · FastAPI · Redis · ChromaDB · MCP · Docker |
+| **Kora** | Multi-agent customer support runtime, based on the EchoMind project by Biscuit-AI531. I added its benchmark suite and reworked intent recognition, urgency and failure handling. | Python · FastAPI · Redis · ChromaDB · MCP · Docker |
 
 
 ## 🛠 Tech Stack
